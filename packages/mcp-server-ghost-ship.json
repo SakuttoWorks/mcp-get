@@ -1,5 +1,6 @@
 {
   "name": "mcp-server-ghost-ship",
+  "vendor": "Sakutto Works",
   "description": "Real-time web search and structured data synthesis server for AI agents. Access via license key.",
   "version": "1.0.0",
   "sourceUrl": "https://huggingface.co/spaces/GhostShip-Admin/ghost-ship-api",
